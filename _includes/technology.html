@@ -1,0 +1,14 @@
+<!-- technology -->
+  <section class="py-5" id="{{ site.data.sitetext.technology.section | default: "technology" }}">
+    <div class="container">
+      <div class="row justify-content-center" {% if site.data.sitetext.technology.horizontal-scrolling == "yes" %} id="scrolling-technology" {% endif %}>
+	  {% for technology in site.data.sitetext.technology.list %}
+        <div class="col-md-3 col-sm-6">
+          <a href="{{ technology.url }}">
+            <img class="img-fluid d-block mx-auto tech-logo" src="{{ technology.logo }}" alt="{{ technology.title }}" style="max-height: {{ site.data.sitetext.technology.max-height | default: "100px" }}">
+          </a>
+        </div>
+	  {% endfor %}
+      </div>
+    </div>
+  </section>

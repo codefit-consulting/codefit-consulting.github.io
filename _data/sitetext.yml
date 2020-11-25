@@ -1,59 +1,53 @@
 header:
   title: It's Nice To Meet You
-  text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+  text: "Here at Codefit, we're in the business of writing code that's a perfect fit for your business. Get in touch to find out how our tailor-made software can help your business flourish."
   button: Tell Me More
   buttonlink: "#services" # "#{section}" or "URL/page link"
 
 services:
   title: "Services"
-  text: "Lorem ipsum"
+  text: "We build custom web-apps, and improve existing ones. Our specialities include..."
   section: services
   list:
     - title: "E-Commerce"
-      desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      desc: "You don't need to shoehorn your business into _one-size-fits-all_ software, we can build you a custom e-commerce app that fits your business like a glove!"
       icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-    - title: "Responsive Design"
-      desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-      icon: fas fa-laptop       
-    - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-      desc: "Your description here, full **Markdown** support"
-      icon: fab fa-markdown
+    - title: "Automation"
+      desc: "Save time and money by automating repetitive workflows. We'll help you identify, analyse and automate the processes that are holding you back."
+      icon: fas fa-users-cog
+    - title: "Business Intelligence"
+      desc: "Good business intelligence can make the difference between success and failure. We can build the tools you need to make the right decisions at the right time."
+      icon: fas fa-chart-line       
 
 portfolio:
-  title: "Portfolio"
-  text: "Lorem ipsum dolor sit amet consectetur."
+  title: "Projects"
+  text: "Some examples of the things we've built for our clients..."
   section: portfolio
     
 
 timeline:
   title: "About" 
-  text: "Lorem ipsum timeline"
+  text: "A short history of Codefit.."
   section: timeline
   events:
-    - title: "Our Humble Beginnings"
-      year: "2009-2011"
-      desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+    - title: "An Educational Origin"
+      year: "2014-2015"
+      desc: Codefit started out in the London tech scene, providing web-development "bootcamps" for the EdTech startup General Assembly
       image: assets/img/timeline/1.jpg
       alt: 
       align: left
-    - title: "An Agency is Born"
-      year: "March 2011"
-      desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+    - title: "Bespoke Tailors"
+      year: "2016"
+      desc: "We branched out into bespoke software development, building our first e-commerce system for a client in the travel industry."
       image: assets/img/timeline/2.jpg
       alt: 
       align: right
-    - title: "Jekyll Theme is created"
-      year: "2019"
-      desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+    - title: "Cumbria Calling"
+      year: "2017 - Present"
+      desc: "We relocated to the beautiful Lake District, where we continue to write great code for our clients, albeit with a much nicer view outside!"
       image: assets/img/timeline/3.jpg
       alt: image alt text
       #align: #default is left       
-    - title: "Title"
-      year: "2009-2011"
-      desc: "Your description here, **Markdown** is fully supported."
-      image: assets/img/timeline/4.jpg
-      alt: 
-      align: right
   end: "Be Part <br> of Our <br> Story!"
 
 about:
@@ -61,79 +55,102 @@ about:
   text: "our story"
   section: about
 
-clients:
-  section: clients
+technology:
+  section: technology
   max-height: 100px
-  horizontal-scrolling: "" #"yes/no"
+  horizontal-scrolling: "no" #"yes/no"
   list:
-    - title: "envato"
-      url: https://github.com/raviriley/agency-jekyll-theme
-      logo: assets/img/clients/envato.jpg
-    - title: "designmodo"
-      url: https://github.com/raviriley/agency-jekyll-theme
-      logo: assets/img/clients/designmodo.jpg
-    - title: "themeforest"
-      url: https://github.com/raviriley/agency-jekyll-theme
-      logo: assets/img/clients/themeforest.jpg
-    - title: "Creative Market"
-      url: https://github.com/raviriley/agency-jekyll-theme
-      logo: assets/img/clients/creative-market.jpg
+    - title: "Ruby on Rails"
+      url: https://rubyonrails.org
+      logo: assets/img/tech/rails_logo.png
+    - title: "Ruby"
+      url: https://www.ruby-lang.org
+      logo: assets/img/tech/ruby_logo.png
+    - title: "Postgres DB"
+      url: https://www.postgresql.org/
+      logo: assets/img/tech/postgres_logo.png
+    - title: "Vue JS"
+      url: https://vuejs.org/
+      logo: assets/img/tech/vue_js_logo.png
+    - title: "Algolia"
+      url: https://www.algolia.com/
+      logo: assets/img/tech/algolia_logo.png
+    - title: "Elasticsearch"
+      url: https://www.elastic.co/elasticsearch/
+      logo: assets/img/tech/elasticsearch_logo.png
+    - title: "Heroku"
+      url: https://www.heroku.com
+      logo: assets/img/tech/heroku_logo.png
+    - title: "Stripe"
+      url: https://stripe.com/
+      logo: assets/img/tech/stripe_logo.png
+    - title: "JavaScript"
+      url: https://en.wikipedia.org/wiki/JavaScript
+      logo: assets/img/tech/javascript_logo.png
+    - title: "Mongo DB"
+      url: https://www.mongodb.com/
+      logo: assets/img/tech/mongo_db_logo.png
+    - title: "Node JS"
+      url: https://nodejs.org/
+      logo: assets/img/tech/node_js_logo.png
     
-team:
-  title: "OUR AMAZING TEAM"
-  text: "Lorem ipsum dolor sit amet consectetur."
-  subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-  section: team
+leadership:
+  title: "Leadership"
+  # text: "Lorem ipsum dolor sit amet consectetur."
+  subtext: Jonathan’s been programming since the days of the Spectrum ZX (remember those?) and was a researcher in the field of Computational Neuroscience before branching out into web development. As the holder of a prestigious Engineering Leadership Award from the Royal Academy of Engineering, you can rest easy, safe in the knowledge that your project with Codefit is in safe hands.
+  section: leadership
   people:
-    - name: "Kay Garland"
-      role: "Lead Designer"
-      image: assets/img/team/1.jpg
+    - name: "Jonathan Chambers, BEng, PhD"
+      role: "Managing Director & Lead Developer"
+      image: assets/img/team/jon.jpeg
       social:
-        - url: https://twitter.com
-          icon: fab fa-twitter
-        - url: https://facebook.com
-          icon: fab fa-facebook-f
-        - url: https://linkedin.com
+        - url: mailto:jon@codefit.co.uk
+          icon: fas fa-envelope
+        - url: https://github.com/jmchambers
+          icon: fab fa-github
+        - url: https://www.linkedin.com/in/jonathanmarkchambers/
           icon: fab fa-linkedin-in
-    - name: "Larry Parker"
-      role: "Lead Marketer"
-      image: assets/img/team/2.jpg
-      social:
-        - url: https://twitter.com
-          icon: fab fa-twitter
-        - url: https://facebook.com
-          icon: fab fa-facebook-f
-        - url: https://linkedin.com
-          icon: fab fa-linkedin-in
-    - name: "Diana Perterson"
-      role: "Lead Developer"
-      image: assets/img/team/3.jpg
-      social:
-        - url: https://twitter.com
-          icon: fab fa-twitter
-        - url: https://facebook.com
-          icon: fab fa-facebook-f
-        - url: https://linkedin.com
-          icon: fab fa-linkedin-in
+    # - name: "Larry Parker"
+    #   role: "Lead Marketer"
+    #   image: assets/img/team/2.jpg
+    #   social:
+    #     - url: https://twitter.com
+    #       icon: fab fa-twitter
+    #     - url: https://facebook.com
+    #       icon: fab fa-facebook-f
+    #     - url: https://linkedin.com
+    #       icon: fab fa-linkedin-in
+    # - name: "Diana Perterson"
+    #   role: "Lead Developer"
+    #   image: assets/img/team/3.jpg
+    #   social:
+    #     - url: https://twitter.com
+    #       icon: fab fa-twitter
+    #     - url: https://facebook.com
+    #       icon: fab fa-facebook-f
+    #     - url: https://linkedin.com
+    #       icon: fab fa-linkedin-in
           
 contact:
   title: "Contact Us"
-  text: "Lorem ipsum or call 123456789"
+  text: "Drop us a line and see what we can do for you..."
   section: contact
     
 footer:
   legal: "Privacy Policy"
   social:
-    - url: https://twitter.com
-      icon: "fab fa-twitter"  
-    - url: https://facebook.com
-      icon: "fab fa-facebook-f"
-    - url: https://linkedin.com
-      icon: "fab fa-linkedin-in"
-    - url: https://github.com/raviriley/agency-jekyll-theme
+    # - url: https://twitter.com
+    #   icon: "fab fa-twitter"  
+    # - url: https://facebook.com
+    #   icon: "fab fa-facebook-f"
+    # - url: https://linkedin.com
+    #   icon: "fab fa-linkedin-in"
+    - url: mailto:info@codefit.co.uk
+      icon: "fas fa-envelope"
+    - url: https://github.com/codefit-consulting
       icon: "fab fa-github"
-    - url: https://instagram.com
-      icon: "fab fa-instagram"
+    # - url: https://instagram.com
+    #   icon: "fab fa-instagram"
 
 
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}

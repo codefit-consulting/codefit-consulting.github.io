@@ -39,3 +39,6 @@ markdown: kramdown
 
 plugins:
   - jekyll-remote-theme
+
+formspree_form_path:
+  f/xeqplepa
