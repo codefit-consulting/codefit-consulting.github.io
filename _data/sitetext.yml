@@ -31,19 +31,19 @@ timeline:
   section: timeline
   events:
     - title: "An Educational Origin"
-      year: "2014-2015"
+      year: "2014"
       desc: Codefit started out in the London tech scene, providing web-development "bootcamps" for the EdTech startup General Assembly
       image: assets/img/timeline/1.jpg
       alt: 
       align: left
     - title: "Bespoke Tailors"
-      year: "2016"
+      year: "2015"
       desc: "We branched out into bespoke software development, building our first e-commerce system for a client in the travel industry."
       image: assets/img/timeline/2.jpg
       alt: 
       align: right
     - title: "Cumbria Calling"
-      year: "2017 - Present"
+      year: "2016 - Present"
       desc: "We relocated to the beautiful Lake District, where we continue to write great code for our clients, albeit with a much nicer view outside!"
       image: assets/img/timeline/3.jpg
       alt: image alt text
