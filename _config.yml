@@ -14,13 +14,15 @@
 #theme: jekyll-agency
 remote_theme: raviriley/agency-jekyll-theme
 
-url    : "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Codefit
-email      : info@codefit.co.uk #this is also the email contact forms will go to
+title: Codefit
+email: info@codefit.co.uk #this is also the email contact forms will go to
 description: "Codefit is a bespoke software developer, specialising in e-commerce solutions for the travel industry"
-author     : Codefit Consulting Ltd
+author: Codefit
+company: Codefit Consulting Ltd
+company_number: 08925423
 
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
