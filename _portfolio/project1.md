@@ -1,7 +1,7 @@
 ---
 title: Universal Search
 subtitle: Increasing the discoverability of SwimTrek's trips, blog posts and other content
-image: assets/video/universal_search.webm
+video_name: universal_search
 poster: assets/video/universal_search.png
 
 caption:

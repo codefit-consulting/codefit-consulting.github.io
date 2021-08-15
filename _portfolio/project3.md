@@ -1,7 +1,7 @@
 ---
 title: Streamlined Checkout
 subtitle: Boosting conversions by keeping things simple
-image: assets/video/streamlined_checkout.webm
+video_name: streamlined_checkout
 poster: assets/video/streamlined_checkout.png
 
 caption:

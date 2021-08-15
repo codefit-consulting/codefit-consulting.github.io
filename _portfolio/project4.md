@@ -1,7 +1,7 @@
 ---
 title: Trip Timetable
 subtitle: Simplifying operations with a custom graphical interface
-image: assets/video/trip_timetable.webm
+video_name: trip_timetable
 poster: assets/video/trip_timetable.png
 
 caption:

@@ -1,7 +1,7 @@
 ---
 title: BI Dashboards
 subtitle: Providing insights into financials, operations and customer demographics
-image: assets/video/bi_dashboards.webm
+video_name: bi_dashboards
 poster: assets/video/bi_dashboards.png
 
 caption:

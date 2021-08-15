@@ -17,8 +17,10 @@
                 <h2 class="text-uppercase">{{ project.title }}</h2>
                 <p class="item-intro text-muted">{{ project.subtitle }}</p>
                 <div class="embed-responsive embed-responsive-4by3">
-                  <video src="{{ project.image }}" autoplay loop controls
-                  poster="{{ project.poster }}">
+                  <video autoplay loop controls poster="assets/img/projects/{{ project.video_name }}.png">
+                    <source src="assets/video/projects/{{ project.video_name }}.webm" type="video/webm">
+                    <source src="assets/video/projects/{{ project.video_name }}.mp4" type="video/mp4">
+                  </video>
                 </div>
 				        <div class="modal-content-text">{{ project.content }}</div>		
                 <button class="btn btn-primary" data-dismiss="modal" type="button">

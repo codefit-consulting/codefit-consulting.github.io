@@ -1,13 +1,11 @@
 ---
 title: Custom E-Commerce
-subtitle: Facilitating innovation in business model with unique features and automation
-image: assets/video/custom_ecommerce.webm
-poster: assets/video/custom_ecommerce.png
+subtitle: Facilitating innovation with unique features and automation
+video_name: custom_ecommerce
 
 caption:
   title: Custom E-Commerce
   subtitle: Facilitating Innovation 
-  thumbnail: assets/video/custom_ecommerce.png
 ---
 **Qui pariatur excepteur proident est deserunt laborum non laborum ullamco ad
 exercitation proident veniam. Proident est duis dolor anim laboris non velit

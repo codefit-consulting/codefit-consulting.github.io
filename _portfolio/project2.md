@@ -1,7 +1,7 @@
 ---
 title: Availability Search
 subtitle: Reducing frustration by allowing customers to summarise their requirements before starting a booking
-image: assets/video/availability_search.webm
+video_name: availability_search
 poster: assets/video/availability_search.png
 
 caption:
