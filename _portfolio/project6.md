@@ -1,18 +1,32 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/06-full.jpg
-alt: 
+title: Custom E-Commerce
+subtitle: Facilitating innovation in business model with unique features and automation
+image: assets/video/custom_ecommerce.webm
+poster: assets/video/custom_ecommerce.png
 
 caption:
-  title: Window
-  subtitle: Photography
-  thumbnail: assets/img/portfolio/06-thumbnail.jpg
+  title: Custom E-Commerce
+  subtitle: Facilitating Innovation 
+  thumbnail: assets/video/custom_ecommerce.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+**Qui pariatur excepteur proident est deserunt laborum non laborum ullamco ad
+exercitation proident veniam. Proident est duis dolor anim laboris non velit
+dolore duis deserunt nulla proident amet ad. Sunt qui tempor ex aliqua ea duis
+labore Lorem est irure aliqua.**
+
+In velit nostrud non aliqua minim ex nulla duis aliquip fugiat id nulla.
+Excepteur consequat nostrud minim aliquip nostrud voluptate et. Aute aliquip ea
+duis ut. Ullamco ea enim adipisicing ipsum veniam ea velit nostrud amet
+consequat ea et non elit. Culpa laborum mollit qui duis non quis elit ipsum do
+in nulla nostrud enim. Quis do consequat quis cillum eu non eiusmod consequat
+aliquip ut. Dolor ullamco ullamco tempor do eiusmod magna commodo proident id
+exercitation.
+
+Do ipsum nostrud excepteur in mollit excepteur. Aliqua nisi quis mollit velit
+duis. Dolore consectetur occaecat elit voluptate eiusmod. Anim sit laboris amet
+quis sint laboris adipisicing ullamco magna.
 
 {:.list-inline}
-- Date: October 2019
-- Client: Window
-- Category: Photography
+- **Date**: August 2015
+- **Client**: SwimTrek
 

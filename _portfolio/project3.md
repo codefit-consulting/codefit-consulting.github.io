@@ -1,18 +1,32 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-full.jpg
-alt: 
+title: Streamlined Checkout
+subtitle: Boosting conversions by keeping things simple
+image: assets/video/streamlined_checkout.webm
+poster: assets/video/streamlined_checkout.png
 
 caption:
-  title: Finish
-  subtitle: Identity
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-thumbnail.jpg
+  title: Streamlined Checkout
+  subtitle: Boosting Conversions
+  thumbnail: assets/video/streamlined_checkout.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+**Qui pariatur excepteur proident est deserunt laborum non laborum ullamco ad
+exercitation proident veniam. Proident est duis dolor anim laboris non velit
+dolore duis deserunt nulla proident amet ad. Sunt qui tempor ex aliqua ea duis
+labore Lorem est irure aliqua.**
+
+In velit nostrud non aliqua minim ex nulla duis aliquip fugiat id nulla.
+Excepteur consequat nostrud minim aliquip nostrud voluptate et. Aute aliquip ea
+duis ut. Ullamco ea enim adipisicing ipsum veniam ea velit nostrud amet
+consequat ea et non elit. Culpa laborum mollit qui duis non quis elit ipsum do
+in nulla nostrud enim. Quis do consequat quis cillum eu non eiusmod consequat
+aliquip ut. Dolor ullamco ullamco tempor do eiusmod magna commodo proident id
+exercitation.
+
+Do ipsum nostrud excepteur in mollit excepteur. Aliqua nisi quis mollit velit
+duis. Dolore consectetur occaecat elit voluptate eiusmod. Anim sit laboris amet
+quis sint laboris adipisicing ullamco magna.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
+- **Date**: August 2018
+- **Client**: SwimTrek
 

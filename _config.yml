@@ -2,7 +2,7 @@
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that.
-# This file is *NOT* reloaded automatically when you use 'bundle exec jekyll serve'. 
+# This file is *NOT* reloaded automatically when you use 'bundle exec jekyll serve'.
 # If you change this file, please restart the server process.
 
 # Site settings
@@ -12,23 +12,23 @@
 # in the templates via {{ site.myvariable }}.
 
 #theme: jekyll-agency
-remote_theme: raviriley/agency-jekyll-theme
+remote_theme: raviriley/agency-jekyll-theme@3639e57b571fc6bcedde07d63ad10525331a564e
 
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
+url: '' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '' # the subpath of your site, e.g. /blog
 
 title: Codefit
 email: info@codefit.co.uk #this is also the email contact forms will go to
-description: "Codefit is a bespoke software developer, specialising in e-commerce solutions for the travel industry"
+description: 'Codefit is a bespoke software developer, specialising in e-commerce solutions for the travel industry'
 author: Codefit
 company: Codefit Consulting Ltd
 company_number: 08925423
 
 # logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
-  # height: 60 #height in px, defaults to 52px
+# path: assets\img\clients\creative-market.jpg
+# height: 60 #height in px, defaults to 52px
 logo:
-  path: "assets/img/logo-light.png"
+  path: 'assets/img/logo-light.png'
   height: 40
 
 analytics:
@@ -42,5 +42,4 @@ markdown: kramdown
 plugins:
   - jekyll-remote-theme
 
-formspree_form_path:
-  f/xeqplepa
+formspree_form_path: f/xeqplepa

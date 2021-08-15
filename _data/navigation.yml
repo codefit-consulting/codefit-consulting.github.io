@@ -1,19 +1,18 @@
 site:
-    logo: "../img/logo.png"
+  logo: '../img/logo.png'
 
 nav:
-  - title: "Services"
+  - title: 'Services'
     section: services
 
-  # - title: "Projects"
-  #   section: portfolio
-    
-  - title: "About"
+  - title: 'Projects'
+    section: portfolio
+
+  - title: 'About'
     section: timeline
 
-  - title: "Leadership"
+  - title: 'Leadership'
     section: leadership
 
-  - title: "Contact"
+  - title: 'Contact'
     section: contact
-
