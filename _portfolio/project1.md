@@ -1,6 +1,6 @@
 ---
 title: Universal Search
-subtitle: Increasing the discoverability of SwimTrek's trips, blog posts and other content
+subtitle: Increasing the discoverability of SwimTrek's trips, blog posts and other content.
 video_name: universal_search
 poster: assets/video/universal_search.png
 
@@ -9,22 +9,52 @@ caption:
   subtitle: Increasing Discoverability
   thumbnail: assets/video/universal_search.png
 ---
-**Qui pariatur excepteur proident est deserunt laborum non laborum ullamco ad
-exercitation proident veniam. Proident est duis dolor anim laboris non velit
-dolore duis deserunt nulla proident amet ad. Sunt qui tempor ex aliqua ea duis
-labore Lorem est irure aliqua.**
 
-In velit nostrud non aliqua minim ex nulla duis aliquip fugiat id nulla.
-Excepteur consequat nostrud minim aliquip nostrud voluptate et. Aute aliquip ea
-duis ut. Ullamco ea enim adipisicing ipsum veniam ea velit nostrud amet
-consequat ea et non elit. Culpa laborum mollit qui duis non quis elit ipsum do
-in nulla nostrud enim. Quis do consequat quis cillum eu non eiusmod consequat
-aliquip ut. Dolor ullamco ullamco tempor do eiusmod magna commodo proident id
-exercitation.
+**As the number of offered products grows so too does the challenge of helping
+customers discover them. In this project we developed a site-wide search system
+enabling SwimTrek's customers to quickly find their ideal trip and any other
+content relevant to their interests.**
 
-Do ipsum nostrud excepteur in mollit excepteur. Aliqua nisi quis mollit velit
-duis. Dolore consectetur occaecat elit voluptate eiusmod. Anim sit laboris amet
-quis sint laboris adipisicing ullamco magna.
+Since we built SwimTrek's site, in 2015, they have significantly increased the
+number of package holidays they offer, as well as adding hundreds of blog posts
+and other staff-generated pages as part of their content marketing strategy. By
+2020 it was becoming increasingly clear that the site's existing browsing tools
+were insufficient to navigate this large body of content. To address this we
+reviewed various search interfaces with SwimTrek and arrived at a design that
+incorporated the following features:
+
+- **a site-wide, keyword search-box**
+  - similar to that on popular e-commerce sites, with...
+  - clickable search suggestions updated as the user types
+  - clickable result previews enabling the full search interface to be skipped 
+- **a Google-inspired search results interface**
+  - with multiple "verticals": _All_, _Trips_, _Dates_, _Blog_ and _Other_
+  - thus allowing the user to quickly view keyword matches for records of a
+    particular type
+- **an AirBnb-inspired filter interface**
+  - filter buttons that both launch the filter's menu and display a summary of
+    its current setting 
+  - result count previews indicating how many results will be shown with the
+    current settings
+  - interactive histograms for range-based filters like price and trip duration
+
+To power the search interface we reviewed several technologies before settling
+on **Algolia**, a hosted search-as-a-service provider with the indexing and
+querying features we needed at a reasonable monthly price. The search interface
+is implemented as a **Vue.js** Single Page Application (SPA) that is loaded as
+part of the site's standard JavaScript bundle, so that it can take over control
+of the page instantly when search is invoked. When combined with the speed of
+Algolia's API this makes the search interface incredibly snappy, providing an
+excellent user experience.
+
+Since its introduction, the Universal Search interface has proved to be very
+popular with the site's visitors, who now routinely use it as their main
+site-navigation tool. The breadth of content viewed by a typical visitor has
+increased significantly, demonstrating that the project has been successful in
+increasing discoverability. Furthermore, search analytics have provided
+SwimTrek's marketing and product teams with valuable insights into how customers
+choose their ideal holiday, highlighting an additional benefit of a
+fully-featured search interface.
 
 ---
 
