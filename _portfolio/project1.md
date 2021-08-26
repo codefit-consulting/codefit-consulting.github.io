@@ -10,7 +10,7 @@ caption:
   thumbnail: assets/video/universal_search.png
 ---
 
-**As the number of offered products grows so too does the challenge of helping
+**As the number of products you offer grows so too does the challenge of helping
 customers discover them. In this project we developed a site-wide search system
 enabling SwimTrek's customers to quickly find their ideal trip and any other
 content relevant to their interests.**
@@ -38,7 +38,7 @@ incorporated the following features:
     current settings
   - interactive histograms for range-based filters like price and trip duration
 
-To power the search interface we reviewed several technologies before settling
+To power the search interface we evaluated several technologies before settling
 on **Algolia**, a hosted search-as-a-service provider with the indexing and
 querying features we needed at a reasonable monthly price. The search interface
 is implemented as a **Vue.js** Single Page Application (SPA) that is loaded as

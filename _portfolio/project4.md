@@ -53,7 +53,7 @@ The new interface has been a big hit with the operations team who now use it as
 their main tool for day-to-day activities. They report that it saves them a lot
 of time over the old spreadsheet approach, and has made the work less stressful
 thanks to the automatic issue detection. The interface has also proved to be a
-useful planning tool for the product team, who use it to test out scenarios for
+useful planning tool for the product team, who use it to explore scenarios for
 future trips.
 
 ---
