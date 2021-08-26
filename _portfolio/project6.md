@@ -43,8 +43,8 @@ automate SwimTrek's most important business functions, including:
 - **a fully-featured CRM system** allowing staff to control the content of
   customer-facing pages
 - **a media asset library** with image/video upload, editing and optimisation
-- **a comprehensive admin-system** allowing staff to manage all aspects of
-  packages, departures, bookings, payments, etc.
+- **a comprehensive admin system** allowing staff to manage packages,
+  departures, bookings, payments, etc.
 - and much more...
 
 The main application is built using **Ruby on Rails**, backed by a **Postgres**
