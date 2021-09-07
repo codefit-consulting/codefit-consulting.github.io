@@ -38,7 +38,7 @@ the admin area of their site, with the following features:
   - the ability to dismiss/restore issues of either type
 - **data management**
   - the website's database as the "single source of truth", with all data
-    fetched and saved to it
+    fetched from and saved to it
   - collaborative editing, with indicators to show which users are working on
     the same year, and with their edits being instantly visible without page
     reloads
