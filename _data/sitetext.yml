@@ -97,7 +97,7 @@ technology:
 leadership:
   title: 'Leadership'
   # text: "Lorem ipsum dolor sit amet consectetur."
-  subtext: Jonathan’s been programming since the days of the Spectrum ZX (remember those?) and was a researcher in the field of Computational Neuroscience before branching out into Web Development. He was the recipent of a prestigious Engineering Leadership Award from the Royal Academy of Engineering and so, you can rest easy, your project with Codefit is in safe hands.
+  subtext: Jonathan’s been programming since the days of the Spectrum ZX (remember those?) and was a researcher in the field of Computational Neuroscience before branching out into Web Development. He was the recipient of a prestigious Engineering Leadership Award from the Royal Academy of Engineering and so, you can rest easy, your project with Codefit is in safe hands.
   section: leadership
   people:
     - name: 'Jonathan Chambers, BEng, PhD'
